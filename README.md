@@ -1,0 +1,2 @@
+It is an implementation of a Insertion Sort Algorithm made in Python
+Code automatically generates a List of 25 random, non-repeating integers and sorts it in the while loop with the Insertion Sort algorithm.
